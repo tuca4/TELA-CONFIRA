@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 07 Jan 2026 18:08:38 at https://confirabancred.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://confirabancred.com/ -O1 "D:\TELA FAKE EMPRESTIMO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:08:45	Error: 	"Not Found" (404) at link https://confirabancred.com/signals/config/ (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:45	Error: 	"Not Found" (404) at link https://confirabancred.com/t (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:45	Error: 	"Not Found" (404) at link https://confirabancred.com/e (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:45	Error: 	"Not Found" (404) at link https://confirabancred.com/signals/plugins/ (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:45	Error: 	"Not Found" (404) at link https://confirabancred.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:45	Error: 	"Not Found" (404) at link https://confirabancred.com/t.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:45	Error: 	"Not Found" (404) at link https://confirabancred.com/o (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:45	Error: 	"Not Found" (404) at link https://confirabancred.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:45	Error: 	"Not Found" (404) at link https://confirabancred.com/signals/iwl.js?pixel_id= (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:45	Error: 	"Not Found" (404) at link https://confirabancred.com/r.dl (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:45	Error: 	"Not Found" (404) at link https://confirabancred.com/r.rl (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:45	Error: 	"Method Not Allowed" (405) at link https://confirabancred.com/consulta/cpf (from https://confirabancred.com/cpf)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 47 links scanned, 34 files written (2628737 bytes overall) [3632021 bytes received at 242134 bytes/sec], 1248166 bytes transferred using HTTP compression in 40 files, ratio 25%, 7.8 requests per connection
+(12 errors, 0 warnings, 0 messages)

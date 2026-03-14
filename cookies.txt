@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+confirabancred.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	kjJsbxUQccjA3d2q62afweuvrVbuATOh2yrDaVwh
+confirabancred.com	TRUE	/	FALSE	1999999999	laravel-session	HLZZLKf1Ri0SpRmcV9DX7nGQlkwwbMJvQXO6hzSE
+confirabancred.com	TRUE	/	FALSE	1999999999	samesite	lax
+
